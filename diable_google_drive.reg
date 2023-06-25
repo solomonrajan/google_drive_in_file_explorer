@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\Software\Classes\CLSID\{CFE8B367-77A7-41D7-9C90-75D16D7DC6B6}]
+[-HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{CFE8B367-77A7-41D7-9C90-75D16D7DC6B6}]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{CFE8B367-77A7-41D7-9C90-75D16D7DC6B6}]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+"{CFE8B367-77A7-41D7-9C90-75D16D7DC6B6}"=-
